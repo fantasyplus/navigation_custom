@@ -1,7 +1,0 @@
-<library path="lib/libhybrid_astar_planner">
-  <class name="hybrid_astar_planner/Hybrid_astarPlanner" type="hybrid_astar_planner::Hybrid_astarPlanner" base_class_type="nav_core::BaseGlobalPlanner">
-    <description>
-      A simple planner that seeks to place a legal hybrid_astar in-front of the robot
-    </description>
-  </class>
-</library>
